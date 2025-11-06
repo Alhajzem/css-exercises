@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+p.odd{
+    background-color: #ffc0cb;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+.third{
+    font-size: 24px;
+}
+/* below are id */
+#second{
+    color: #0000ff;
+    font-size: 36px;
+}
+#fourth{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
